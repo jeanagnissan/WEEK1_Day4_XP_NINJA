@@ -1,0 +1,7 @@
+.banner-image{
+    background-image: url("people.jpg");
+    background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+
+}
